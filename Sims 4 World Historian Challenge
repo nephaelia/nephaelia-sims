@@ -1,0 +1,34 @@
+I thought of a Sims challenge that I would definitely do, not sure if anyone else would but I figured hey, why not post it??
+The idea is to keep track of all the genealogy and relationships in the entire save file. 
+I’m still working on how you’d get scored or whatever but here’s the idea:
+
+Requirements:
+  MCCC or some other mod that makes logs of all the events that happen in your save. Its ability to get you gedcom (genealogy database) files could be super helpful for this too. 
+  I definitely recommend MCCC, but tbf I haven’t looked for alternatives so it might not be the only option?
+  
+  External genealogy software- I recommend Gramps, it’s free and open source, and you can very easily import the gedcom files you can get with MCCC (as well as other file types). 
+
+Not that I expect anyone other than me to do this, but if you want to, I posted a starter gramps file in this repo for it which should save you about 4-6 hours of work!
+I added all the townies and NPCs you start with in a new Sims 4 save file. 
+Townies have attribute: "Caste" value: "Townie"
+NPCs have attribute: "Caste" value: "NPC" (for Batuu NPCs, Crumplebottoms, etc. The line is a little blurry sometimes)
+Everyone should have an attribute: "National Origin" with a value corresponding to what world they reside in at the start, or what world comes with the expansion they're from.
+I have a tutorial on my tumblr about filtering by attribute in Gramps so you can filter out any sims from expansions you don't have: https://nephaelia-sims.tumblr.com/post/686778358037659648/gramps-tutorial
+For now I'd recommend setting birthdates for these sims to the day you start playing for simplicity's sake, personally I've been entering life events from my MCCC logs with real-time dates.
+It's not a great system but it's at least something to keep track. 
+Maybe set kids birthdays to the day you start, teens a day back, YA 2 days back, etc? 
+
+Rules/Points:
+
+    Main goal: keep track of all relationships, births, deaths, etc.
+    Get pictures of all sims for their records (whether in CAS through cheats or a more challenging option of finding them in world and taking actual pictures)
+    Mods are fully allowed ofc. Would make sense to note what you used though, especially if it made things easier or harder for the challenge
+    No cheats to directly influence relationships between sims, start  pregnancies, etc. 
+    Your sim can interact with other sims but any  interactions must be genuine (not cheated). 
+    Mods that influence things indirectly or without case-by-case user input are perfectly fine (MCCC pregnancy and population, for example)
+
+Extra challenge
+
+Gravekeeper: Have MCCC set to all death notifications on, and whenever you get one, find the gravestone/urn of the sim who died and collect it. 
+Make a graveyard. Get creative. 
+Optionally, turn off culling (my preferred option tbh), strengthen connections to the physical world, and try to get as many ghosts as possible.
